@@ -1,0 +1,4 @@
+Login Admin
+http://domain.com/login
+email: 401xdssh@gmail.com
+password: adminportfolio
